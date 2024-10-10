@@ -1,4 +1,4 @@
-# Ex-8-Implement-DES-Encryption-and-Decryption
+# Ex-8-Implement-AES-Encryption-and-Decryption
 
 ## Aim:
 To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
