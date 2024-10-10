@@ -1,8 +1,10 @@
 # Ex-8-Implement-DES-Encryption-and-Decryption
+
 ## Aim:
 To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
 
 ## ALGORITHM:
+
 1. AES is based on a design principle known as a substitution–permutation.
 
 2. AES does not use a Feistel network like DES, it uses variant of Rijndael.
@@ -41,6 +43,7 @@ printf("Decrypted URL: %s\n", url);
 return 0;
 }
 ```
+
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/e948d6e9-99f1-4883-8863-b60fbc342249)
 
